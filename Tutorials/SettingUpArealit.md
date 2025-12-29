@@ -14,7 +14,8 @@ Before you begin, ensure you have the following:
 ## Disclaimer
 Arealit is a third-party system not officially supported by VRChat. Use it at your own risk, and be aware that VRChat's performance guidelines should always be followed to ensure a smooth experience for all users.
 
-> [!warning] All images in this guide are from a current world of mine and thus, should not be followed exactly to the letter, they are just for reference as to how things might look. Your materials and setup will probably look different.
+> [!WARNING]
+> All images in this guide are from a current world of mine and thus, should not be followed exactly to the letter, they are just for reference as to how things might look. Your materials and setup will probably look different.
 
 ## Understanding Arealit
 Arealit is a global illumination system that uses a camera to capture light information from specific sources in your scene and applies that information to materials using specialized shaders. This allows for dynamic lighting effects that can enhance the visual quality of your VRChat worlds.
